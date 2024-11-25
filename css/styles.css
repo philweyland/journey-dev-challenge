@@ -1,7 +1,7 @@
 /* Variables */
 :root {
-    --primary-color: #2c3e50;
-    --secondary-color: #3498db;
+    --primary-color: #FF6E4F;
+    --secondary-color: #D3D3D3;
     --background-color: #ffffff;
     --text-color: #333333;
     --transition-speed: 0.3s;
@@ -23,7 +23,7 @@
 }
 
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Courier, monospace;
     line-height: 1.6;
     color: var(--text-color);
     background-color: var(--background-color);
@@ -100,7 +100,7 @@ h2 {
     color: white;
     padding: 0.5rem 1rem;
     border-radius: 20px;
-    font-size: 0.9rem;
+    font-size: 2rem;
 }
 
 /* Footer styles */
